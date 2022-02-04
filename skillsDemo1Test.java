@@ -6,7 +6,7 @@ public class skillsDemo1Test {
     // add test case
     @Test
     public void multiplyTest() {
-        assertEquals(2, skillsDemo1.multiply(1,1));  //this should fail
+        assertEquals(2, skillsDemo1.multiply(1,2));  //this should now pass
     }
 
 }
