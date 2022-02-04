@@ -1,3 +1,9 @@
 public class skillsDemo1 {
-  // beginning class on github, now i want to switch to VSCode
+  // add class method
+  public static int multiply(int x, int y) {
+    return x*y;
+  }
+
 }
+
+// i will now add jars and create tester
